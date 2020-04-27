@@ -1,0 +1,1 @@
+# solocoin_intern_task
