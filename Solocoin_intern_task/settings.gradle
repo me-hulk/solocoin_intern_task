@@ -1,0 +1,2 @@
+rootProject.name='Solocoin_intern_task'
+include ':app'
